@@ -5,7 +5,7 @@ I have following repositories:
 ### Webchat 
 
 ### UniversityBase
-The base of students where we can manager student date using simple GUI. 
+The base of students where we can manager student data by using simple GUI. 
 
 *Technology stack:*
 - C#
