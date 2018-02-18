@@ -2,8 +2,20 @@
 
 I have following repositories:
 
-## Webchat 
+### Webchat 
 
-## University 
+### UniversityBase
+The base of students where we can manager student date using simple GUI. 
+*Technology stack:*
+- C#
+- JavaScript
+- ASP.NET MVC 
+- Entity Framework 
+- Jquery 
+- Ajax
+- MS SQL
+- JSON
+- Html + CSS 
 
-## OnlineShop 
+
+### OnlineShop 
