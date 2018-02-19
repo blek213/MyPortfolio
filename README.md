@@ -34,6 +34,7 @@ The base of students where we can manager student data by using simple GUI.
 
 ### OnlineShop 
 The online shop where we can buy products as a client or add them as a manager.
+I'm still working with this project because I want to use new technologies. 
 
 *Technology stack:*
 - C#
