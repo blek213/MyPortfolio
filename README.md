@@ -58,5 +58,10 @@ The online shop where we can buy products as a client or add them as a manager.
 -JavaScript
 
 
+## Also I have not finished projects but there are code
 
+### Hosting-images
+I thought that it was useful to creat hostring-images service. I had made url generation and create database for saving links to images.
 
+### EmployeeBase
+I was interesting in practicing BLOB and how to save images on Server and then present for client.
