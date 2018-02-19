@@ -48,7 +48,7 @@ The online shop where we can buy products as a client or add them as a manager.
 - Html + CSS 
 
 
-Also I have done laboratories that can be shown as pet projects
+## Also I have done laboratories that can be shown as pet projects
 
 ### LabCPP1
 Гра "Бики та Корови"
