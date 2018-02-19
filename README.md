@@ -54,6 +54,7 @@ Also I have done laboratories that can be shown as pet projects
 Гра "Бики та Корови"
 
 *Technology stack:*
+
 -JavaScript
 
 
