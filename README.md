@@ -1,6 +1,5 @@
 # Hello! This is my portfolio
 
-# I have following repositories:
 
 ## My projects
 ### Webchat 
@@ -17,7 +16,6 @@ The online web chat for exchanging messages.
 - MS SQL
 - JSON
 - Html + CSS
-
 
 ### UniversityBase
 The base of students where we can manager student data by using simple GUI. 
