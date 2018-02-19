@@ -52,8 +52,8 @@ Also I have done laboratories that can be shown as pet projects
 
 ### LabCPP1
 Гра "Бики та Корови"
-*Technology stack:*
 
+*Technology stack:*
 -JavaScript
 
 
