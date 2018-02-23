@@ -1,4 +1,4 @@
-# Hello! This is my portfoli
+# Hello! This is my portfolio
 
 
 ## My projects
